@@ -3,6 +3,9 @@
 __author__ = 'bit4'
 #github:https://github.com/bit4woo
 
+# Authorization Basic Brute
+
+
 import requests
 import sys
 from requests.auth import HTTPBasicAuth

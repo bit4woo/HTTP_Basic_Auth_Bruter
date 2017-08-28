@@ -1,2 +1,9 @@
-# tomcat_manager_bruter
-Tomcat Manager Bruter
+# HTTP  Basic Authorization Bruter
+HTTP  Basic Authorization Bruter
+
+for example:
+
+Tomcat Manager
+
+RabbitMQ
+
